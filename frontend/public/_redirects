@@ -1,0 +1,6 @@
+/assets/* /assets/:splat 200
+/fonts/* /fonts/:splat 200
+/bg/* /bg/:splat 200
+/config.js /config.js 200
+/vite.svg /vite.svg 200
+/* /index.html 200

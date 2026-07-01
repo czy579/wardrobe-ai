@@ -1,0 +1,8 @@
+backend/db.sqlite
+backend/uploads/
+backend.log
+node_modules/
+dist/
+.env
+__pycache__/
+*.pyc
